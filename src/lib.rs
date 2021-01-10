@@ -1,3 +1,7 @@
+//! Implements Atom for the thespian project.
+//! 
+//! TODO: Cleanup errors with `compile_error!`
+
 use proc_macro::*;
 
 
